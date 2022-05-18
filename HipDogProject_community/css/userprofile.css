@@ -1,0 +1,690 @@
+/* screen - userprofile */
+
+.userprofile {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 640px;
+  min-width: 360px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.userprofile .rectangle-21-C61RwL {
+  background-color: var(--viking);
+  height: 62px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 360px;
+}
+
+.userprofile .hip-dog-C61RwL {
+  -webkit-text-stroke: 1px var(--viking);
+  background-color: transparent;
+  height: auto;
+  left: 136px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 4px 4px transparent;
+  top: 10px;
+  width: 86px;
+}
+
+.userprofile .rectangle-30-C61RwL {
+  background-color: transparent;
+  height: 131px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 61px;
+  width: 360px;
+}
+
+.userprofile .rectangle-67-C61RwL {
+  background-color: #fff400f5;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px transparent;
+  cursor: pointer;
+  height: 50px;
+  left: 213px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 75px;
+  width: 137px;
+}
+
+.userprofile .rectangle-31-C61RwL {
+  background-color: transparent;
+  height: 127px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 190px;
+  width: 360px;
+}
+
+.userprofile .girl-3-maltese-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 137px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 228px;
+  width: 118px;
+}
+
+.userprofile .brownie-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 137px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 212px;
+  width: 60px;
+}
+
+.userprofile .ellipse-25-C61RwL {
+  background-color: transparent;
+  height: 100px;
+  left: 20px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 205px;
+  width: 100px;
+}
+
+.userprofile .male-30-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 137px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 110px;
+  width: 96px;
+}
+
+.userprofile .ellipse-21-C61RwL {
+  background-color: transparent;
+  height: 100px;
+  left: 18px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 78px;
+  width: 100px;
+}
+
+.userprofile .brain-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 137px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 91px;
+  width: 51px;
+}
+
+.userprofile .report-comment-status-C61RwL {
+  background-color: transparent;
+  color: #d00d0d;
+  cursor: pointer;
+  font-family: var(--font-family-baloo-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 223px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 80px;
+  width: 119px;
+}
+
+.userprofile .size-mini-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 137px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: 106px;
+}
+
+.userprofile .rectangle-85-C61RwL {
+  background-color: var(--white);
+  height: 243px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 364px;
+  width: 360px;
+}
+
+.userprofile .rectangle-94-C61RwL {
+  background-color: var(--iron);
+  border-radius: 20px;
+  height: 33px;
+  left: 13px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 544px;
+  width: 201px;
+}
+
+.userprofile .thor-lives-near-30-km-C61RwL {
+  background-color: transparent;
+  color: transparent;
+  font-family: var(--font-family-baloo-regular);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 547px;
+  width: 211px;
+}
+
+.userprofile .span0-xFSS9p {
+  color: #182efad9;
+  font-style: normal;
+}
+
+.userprofile .span1-xFSS9p {
+  font-style: normal;
+}
+
+.userprofile .span2-xFSS9p {
+  font-style: normal;
+}
+
+.userprofile .span3-xFSS9p {
+  color: #3875ad;
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+}
+
+.userprofile .span4-xFSS9p {
+  font-style: normal;
+}
+
+.userprofile .rectangle-92-C61RwL {
+  background-color: var(--iron);
+  border-radius: 20px;
+  height: 33px;
+  left: 10px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 502px;
+  width: 204px;
+}
+
+.userprofile .location-customization-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 40px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 508px;
+  width: 165px;
+}
+
+.userprofile .icon-check_mark-C61RwL {
+  background-color: transparent;
+  height: 30px;
+  left: 15px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 499px;
+  width: 30px;
+}
+
+.userprofile .rectangle-91-C61RwL {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 30px;
+  left: 248px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 459px;
+  width: 108px;
+}
+
+.userprofile .rectangle-90-C61RwL {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 30px;
+  left: 131px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 459px;
+  width: 108px;
+}
+
+.userprofile .barks-when-happy-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-baloo-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 136px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 466px;
+  width: 129px;
+}
+
+.userprofile .rectangle-89-C61RwL {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 30px;
+  left: 12px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 460px;
+  width: 108px;
+}
+
+.userprofile .potty-trained-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 465px;
+  width: 108px;
+}
+
+.userprofile .rectangle-88-C61RwL {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 30px;
+  left: 248px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 410px;
+  width: 108px;
+}
+
+.userprofile .loves-people-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 256px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 415px;
+  width: 96px;
+}
+
+.userprofile .rectangle-87-C61RwL {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 30px;
+  left: 130px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 410px;
+  width: 108px;
+}
+
+.userprofile .extrovert-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 152px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 415px;
+  width: 71px;
+}
+
+.userprofile .rectangle-24-C61RwL {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 30px;
+  left: 12px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 410px;
+  width: 108px;
+}
+
+.userprofile .active-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 42px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 415px;
+  width: 48px;
+}
+
+.userprofile .pets_black_24dp-3-C61RwL {
+  background-color: transparent;
+  height: 25px;
+  left: 10px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 371px;
+  width: 25px;
+}
+
+.userprofile .rectangle-86-C61RwL {
+  background-color: var(--iron);
+  border-radius: 20px;
+  height: 33px;
+  left: 8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 325px;
+  width: 147px;
+}
+
+.userprofile .information-form-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 330px;
+  width: 132px;
+}
+
+.userprofile .about-my-doggy-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-baloo-regular);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 373px;
+  width: 167px;
+}
+
+.userprofile .vector-C61RwL {
+  background-color: transparent;
+  height: 3.13%;
+  left: 4.44%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 79.53%;
+  width: 5.56%;
+}
+
+.userprofile .arrow_back_black_24dp-2-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: -2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 19px;
+  width: 42px;
+}
+
+.userprofile .component-6-C61RwL {
+  background-color: transparent;
+  height: 39px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 602px;
+  width: 360px;
+}
+
+.userprofile .rectangle-35-5mfU7d {
+  background-color: var(--viking);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.userprofile .rectangle-37-5mfU7d {
+  background-color: var(--viking);
+  height: 105.13%;
+  left: 18.89%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -2.56%;
+  width: 21.39%;
+}
+
+.userprofile .rectangle-36-5mfU7d {
+  background-color: var(--viking);
+  height: 105.13%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -2.56%;
+  width: 19.72%;
+}
+
+.userprofile .component-7-C61RwL {
+  background-color: transparent;
+  height: 44px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 602px;
+  width: 323px;
+}
+
+.userprofile .icon-home-4TO2uA {
+  background-color: transparent;
+  height: 63.64%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9.09%;
+  width: 9.91%;
+}
+
+.userprofile .home-4TO2uA {
+  background-color: transparent;
+  height: 54.55%;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 45.45%;
+  width: 10.22%;
+}
+
+.userprofile .groups_black_24dp-1-4TO2uA {
+  background-color: transparent;
+  height: 72.73%;
+  left: 20.74%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 11.15%;
+}
+
+.userprofile .community-4TO2uA {
+  background-color: transparent;
+  height: 54.55%;
+  left: 17.03%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 40.91%;
+  width: 19.81%;
+}
+
+.userprofile .rectangle-38-4TO2uA {
+  background-color: var(--viking);
+  height: 93.18%;
+  left: 38.08%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -2.27%;
+  width: 22.60%;
+}
+
+.userprofile .x6366325_animal_breed-4TO2uA {
+  background-color: transparent;
+  height: 47.73%;
+  left: 39.01%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9.09%;
+  width: 9.91%;
+}
+
+.userprofile .x6366340_animal_breed-4TO2uA {
+  background-color: transparent;
+  height: 63.64%;
+  left: 49.54%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9.09%;
+  width: 10.22%;
+}
+
+.userprofile .rectangle-39-4TO2uA {
+  background-color: var(--viking);
+  height: 93.18%;
+  left: 60.37%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -2.27%;
+  width: 22.91%;
+}
+
+.userprofile .question_answer_black_24dp-1-4TO2uA {
+  background-color: transparent;
+  height: 54.55%;
+  left: 66.56%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 13.64%;
+  width: 10.53%;
+}
+
+.userprofile .chat-4TO2uA {
+  background-color: transparent;
+  height: 54.55%;
+  left: 67.80%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 45.45%;
+  width: 7.74%;
+}
+
+.userprofile .icon-user-4TO2uA {
+  background-color: transparent;
+  height: 54.55%;
+  left: 88.54%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9.09%;
+  width: 11.46%;
+}
+
+.userprofile .profile-4TO2uA {
+  background-color: transparent;
+  height: 54.55%;
+  left: 88.54%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 45.45%;
+  width: 11.46%;
+}
+
+.userprofile .x-4TO2uA {
+  background-color: transparent;
+  height: 84.09%;
+  left: 47.68%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 2.48%;
+}
+
+.userprofile .matching-4TO2uA {
+  background-color: transparent;
+  height: 50.00%;
+  left: 41.80%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 47.73%;
+  width: 15.17%;
+}

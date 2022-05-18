@@ -1,0 +1,182 @@
+:root { 
+  --alabaster: #fafafa;
+  --black: #000000;
+  --curious-blue: #359dd9;
+  --ebb: #e8e2e2;
+  --iron: #d7d7d7;
+  --mercury: #e5e5e5;
+  --mist-gray: #c4c4c4;
+  --red: #ff0000;
+  --turbo: #ffeb00;
+  --viking: #56ccf2;
+  --white: #ffffff;
+ 
+  --font-size-l: 13px;
+  --font-size-m: 12px;
+  --font-size-s: 10px;
+  --font-size-xl: 15px;
+  --font-size-xxl: 17px;
+  --font-size-xxxl: 18px;
+  --font-size-xxxxl: 20px;
+ 
+  --font-family-baloo-regular: "Baloo-Regular", Helvetica;
+  --font-family-cairo: "Cairo", Helvetica;
+  --font-family-candal: "Candal", Helvetica;
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-istok_web: "Istok Web", Helvetica;
+}
+.cairo-normal-black-12px {
+  color: var(--black);
+  font-family: var(--font-family-cairo);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.cairo-bold-black-13px {
+  color: var(--black);
+  font-family: var(--font-family-cairo);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.baloo-regular-normal-black-15px {
+  color: var(--black);
+  font-family: var(--font-family-baloo-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.cairo-normal-black-13px {
+  color: var(--black);
+  font-family: var(--font-family-cairo);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.cairo-light-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-cairo);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.cairo-bold-black-12px {
+  color: var(--black);
+  font-family: var(--font-family-cairo);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.baloo-regular-normal-black-17px {
+  color: var(--black);
+  font-family: var(--font-family-baloo-regular);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.baloo-regular-normal-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-baloo-regular);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.cairo-normal-black-15px {
+  color: var(--black);
+  font-family: var(--font-family-cairo);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.baloo-regular-normal-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-baloo-regular);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.baloo-regular-normal-black-13px {
+  color: var(--black);
+  font-family: var(--font-family-baloo-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.baloo-regular-normal-turbo-25px {
+  color: var(--turbo);
+  font-family: var(--font-family-baloo-regular);
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.cairo-normal-black-10px {
+  color: var(--black);
+  font-family: var(--font-family-cairo);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.baloo-regular-normal-white-13px {
+  color: var(--white);
+  font-family: var(--font-family-baloo-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.istokweb-normal-black-30px {
+  color: var(--black);
+  font-family: var(--font-family-istok_web);
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.baloo-regular-normal-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-baloo-regular);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.baloo-regular-normal-black-25px {
+  color: var(--black);
+  font-family: var(--font-family-baloo-regular);
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.border-1px-mercury {
+  border: 1px solid var(--mercury);
+}
+
+.border-0-5px-iron {
+  border: 0.5px solid var(--iron);
+}
+
+.border-1px-iron {
+  border: 1px solid var(--iron);
+}
+
+.border-1px-black {
+  border: 1px solid var(--black);
+}
+
+.border-1px-curious-blue {
+  border: 1px solid var(--curious-blue);
+}

@@ -1,0 +1,460 @@
+/* screen - chatting-with-kevin */
+
+.chatting-with-kevin {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 640px;
+  min-width: 360px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.chatting-with-kevin .component-5-C61RwL {
+  background-color: transparent;
+  height: 39px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 601px;
+  width: 360px;
+}
+
+.chatting-with-kevin .rectangle-35-9wWKr1 {
+  background-color: var(--viking);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.chatting-with-kevin .rectangle-37-9wWKr1 {
+  background-color: var(--viking);
+  height: 105.13%;
+  left: 18.89%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -2.56%;
+  width: 21.39%;
+}
+
+.chatting-with-kevin .rectangle-36-9wWKr1 {
+  background-color: var(--viking);
+  height: 105.13%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -2.56%;
+  width: 19.72%;
+}
+
+.chatting-with-kevin .rectangle-21-C61RwL {
+  background-color: var(--viking);
+  height: 62px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 360px;
+}
+
+.chatting-with-kevin .arrow_back_black_24dp-1-C61RwL {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 19px;
+  width: 46px;
+}
+
+.chatting-with-kevin .component-4-C61RwL {
+  background-color: transparent;
+  height: 44px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 601px;
+  width: 323px;
+}
+
+.chatting-with-kevin .icon-home-p4wM3n {
+  background-color: transparent;
+  height: 63.64%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9.09%;
+  width: 9.91%;
+}
+
+.chatting-with-kevin .home-p4wM3n {
+  background-color: transparent;
+  height: 54.55%;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 45.45%;
+  width: 10.22%;
+}
+
+.chatting-with-kevin .groups_black_24dp-1-p4wM3n {
+  background-color: transparent;
+  height: 72.73%;
+  left: 20.74%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 11.15%;
+}
+
+.chatting-with-kevin .community-p4wM3n {
+  background-color: transparent;
+  height: 54.55%;
+  left: 17.03%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 40.91%;
+  width: 19.81%;
+}
+
+.chatting-with-kevin .rectangle-38-p4wM3n {
+  background-color: var(--viking);
+  height: 93.18%;
+  left: 38.08%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -2.27%;
+  width: 22.60%;
+}
+
+.chatting-with-kevin .x6366325_animal_breed-p4wM3n {
+  background-color: transparent;
+  height: 47.73%;
+  left: 39.01%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9.09%;
+  width: 9.91%;
+}
+
+.chatting-with-kevin .x6366340_animal_breed-p4wM3n {
+  background-color: transparent;
+  height: 63.64%;
+  left: 49.54%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9.09%;
+  width: 10.22%;
+}
+
+.chatting-with-kevin .rectangle-39-p4wM3n {
+  background-color: var(--viking);
+  height: 93.18%;
+  left: 60.37%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -2.27%;
+  width: 22.91%;
+}
+
+.chatting-with-kevin .question_answer_black_24dp-1-p4wM3n {
+  background-color: transparent;
+  height: 54.55%;
+  left: 66.56%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 13.64%;
+  width: 10.53%;
+}
+
+.chatting-with-kevin .chat-p4wM3n {
+  background-color: transparent;
+  height: 54.55%;
+  left: 67.80%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 45.45%;
+  width: 7.74%;
+}
+
+.chatting-with-kevin .icon-user-p4wM3n {
+  background-color: transparent;
+  height: 54.55%;
+  left: 88.54%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9.09%;
+  width: 11.46%;
+}
+
+.chatting-with-kevin .profile-p4wM3n {
+  background-color: transparent;
+  height: 54.55%;
+  left: 88.54%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 45.45%;
+  width: 11.46%;
+}
+
+.chatting-with-kevin .x-p4wM3n {
+  background-color: transparent;
+  height: 84.09%;
+  left: 47.68%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 2.48%;
+}
+
+.chatting-with-kevin .matching-p4wM3n {
+  background-color: transparent;
+  height: 50.00%;
+  left: 41.80%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 47.73%;
+  width: 15.17%;
+}
+
+.chatting-with-kevin .hip-dog-C61RwL {
+  -webkit-text-stroke: 1px var(--viking);
+  background-color: transparent;
+  height: auto;
+  left: 136px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 4px 4px transparent;
+  top: 10px;
+  width: 86px;
+}
+
+.chatting-with-kevin .rectangle-59-C61RwL {
+  background-color: var(--mist-gray);
+  border-radius: 10px;
+  height: 35px;
+  left: 8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 560px;
+  width: 337px;
+}
+
+.chatting-with-kevin .rectangle-60-C61RwL {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 23px;
+  left: 15px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 566px;
+  width: 280px;
+}
+
+.chatting-with-kevin .rectangle-61-C61RwL {
+  background-color: transparent;
+  height: 28px;
+  left: 70px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 155px;
+  width: 113px;
+}
+
+.chatting-with-kevin .ellipse-21-C61RwL {
+  background-color: transparent;
+  height: 26px;
+  left: 306px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 565px;
+  width: 26px;
+}
+
+.chatting-with-kevin .arrow_upward_black_24dp-1-C61RwL {
+  background-color: transparent;
+  height: 24px;
+  left: 307px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 567px;
+  width: 24px;
+}
+
+.chatting-with-kevin .ellipse-21-VMr6Om {
+  background-color: transparent;
+  cursor: pointer;
+  height: 47px;
+  left: 12px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 147px;
+  width: 47px;
+}
+
+.chatting-with-kevin .rectangle-62-C61RwL {
+  background-color: transparent;
+  height: 57px;
+  left: 59px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 225px;
+  width: 232px;
+}
+
+.chatting-with-kevin .ellipse-22-C61RwL {
+  background-color: transparent;
+  height: 47px;
+  left: 302px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 217px;
+  width: 47px;
+}
+
+.chatting-with-kevin .rectangle-65-C61RwL {
+  background-color: transparent;
+  height: 28px;
+  left: 66px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 328px;
+  width: 57px;
+}
+
+.chatting-with-kevin .rectangle-66-C61RwL {
+  background-color: transparent;
+  height: 28px;
+  left: 66px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 367px;
+  width: 232px;
+}
+
+.chatting-with-kevin .hey-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 81px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 329px;
+  width: 30px;
+}
+
+.chatting-with-kevin .thats-none-of-your-business-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 81px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 368px;
+  width: 210px;
+}
+
+.chatting-with-kevin .ellipse-25-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 47px;
+  left: 8px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 320px;
+  width: 47px;
+}
+
+.chatting-with-kevin .rectangle-64-C61RwL {
+  background-color: transparent;
+  height: 28px;
+  left: 137px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 89px;
+  width: 154px;
+}
+
+.chatting-with-kevin .ellipse-24-C61RwL {
+  background-color: transparent;
+  height: 47px;
+  left: 302px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 81px;
+  width: 47px;
+}
+
+.chatting-with-kevin .hi-how-are-you-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 155px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 92px;
+  width: 139px;
+}
+
+.chatting-with-kevin .do-you-usually-go-for-walk-with-your-dog-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 83px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 228px;
+  width: 202px;
+}
+
+.chatting-with-kevin .never-better-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 83px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 158px;
+  width: 97px;
+}

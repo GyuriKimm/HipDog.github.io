@@ -1,0 +1,457 @@
+/* screen - chatting-list-4 */
+
+.chatting-list-4 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 640px;
+  min-width: 360px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.chatting-list-4 .component-5-C61RwL {
+  background-color: transparent;
+  height: 39px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 601px;
+  width: 360px;
+}
+
+.chatting-list-4 .rectangle-35-9wWKr1 {
+  background-color: var(--viking);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.chatting-list-4 .rectangle-37-9wWKr1 {
+  background-color: var(--viking);
+  height: 105.13%;
+  left: 18.89%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -2.56%;
+  width: 21.39%;
+}
+
+.chatting-list-4 .rectangle-36-9wWKr1 {
+  background-color: var(--viking);
+  height: 105.13%;
+  left: -0.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -2.56%;
+  width: 19.72%;
+}
+
+.chatting-list-4 .rectangle-21-C61RwL {
+  background-color: var(--viking);
+  height: 62px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 360px;
+}
+
+.chatting-list-4 .rectangle-23-C61RwL {
+  background-color: var(--alabaster);
+  height: 37px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 61px;
+  width: 362px;
+}
+
+.chatting-list-4 .rectangle-26-C61RwL {
+  background-color: var(--alabaster);
+  height: 69px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 96px;
+  width: 362px;
+}
+
+.chatting-list-4 .rectangle-28-C61RwL {
+  background-color: var(--alabaster);
+  height: 69px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 163px;
+  width: 362px;
+}
+
+.chatting-list-4 .rectangle-24-C61RwL {
+  background-color: var(--turbo);
+  border-radius: 20px;
+  height: 24px;
+  left: 3px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 67px;
+  width: 90px;
+}
+
+.chatting-list-4 .messages-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 67px;
+  width: auto;
+}
+
+.chatting-list-4 .component-4-C61RwL {
+  background-color: transparent;
+  height: 44px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 601px;
+  width: 323px;
+}
+
+.chatting-list-4 .icon-home-p4wM3n {
+  background-color: transparent;
+  height: 63.64%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9.09%;
+  width: 9.91%;
+}
+
+.chatting-list-4 .home-p4wM3n {
+  background-color: transparent;
+  height: 54.55%;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 45.45%;
+  width: 10.22%;
+}
+
+.chatting-list-4 .groups_black_24dp-1-p4wM3n {
+  background-color: transparent;
+  height: 72.73%;
+  left: 20.74%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 11.15%;
+}
+
+.chatting-list-4 .community-p4wM3n {
+  background-color: transparent;
+  height: 54.55%;
+  left: 17.03%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 40.91%;
+  width: 19.81%;
+}
+
+.chatting-list-4 .rectangle-38-p4wM3n {
+  background-color: var(--viking);
+  height: 93.18%;
+  left: 38.08%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -2.27%;
+  width: 22.60%;
+}
+
+.chatting-list-4 .x6366325_animal_breed-p4wM3n {
+  background-color: transparent;
+  height: 47.73%;
+  left: 39.01%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9.09%;
+  width: 9.91%;
+}
+
+.chatting-list-4 .x6366340_animal_breed-p4wM3n {
+  background-color: transparent;
+  height: 63.64%;
+  left: 49.54%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9.09%;
+  width: 10.22%;
+}
+
+.chatting-list-4 .rectangle-39-p4wM3n {
+  background-color: var(--viking);
+  height: 93.18%;
+  left: 60.37%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -2.27%;
+  width: 22.91%;
+}
+
+.chatting-list-4 .question_answer_black_24dp-1-p4wM3n {
+  background-color: transparent;
+  height: 54.55%;
+  left: 66.56%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 13.64%;
+  width: 10.53%;
+}
+
+.chatting-list-4 .chat-p4wM3n {
+  background-color: transparent;
+  height: 54.55%;
+  left: 67.80%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 45.45%;
+  width: 7.74%;
+}
+
+.chatting-list-4 .icon-user-p4wM3n {
+  background-color: transparent;
+  height: 54.55%;
+  left: 88.54%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9.09%;
+  width: 11.46%;
+}
+
+.chatting-list-4 .profile-p4wM3n {
+  background-color: transparent;
+  height: 54.55%;
+  left: 88.54%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 45.45%;
+  width: 11.46%;
+}
+
+.chatting-list-4 .x-p4wM3n {
+  background-color: transparent;
+  height: 84.09%;
+  left: 47.68%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 2.48%;
+}
+
+.chatting-list-4 .matching-p4wM3n {
+  background-color: transparent;
+  height: 50.00%;
+  left: 41.80%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 47.73%;
+  width: 15.17%;
+}
+
+.chatting-list-4 .hip-dog-C61RwL {
+  -webkit-text-stroke: 1px var(--viking);
+  background-color: transparent;
+  height: auto;
+  left: 136px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 4px 4px transparent;
+  top: 10px;
+  width: 86px;
+}
+
+.chatting-list-4 .ellipse-15-C61RwL {
+  background-color: transparent;
+  height: 47px;
+  left: 8px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 109px;
+  width: 47px;
+}
+
+.chatting-list-4 .rectangle-29-C61RwL {
+  background-color: var(--alabaster);
+  height: 69px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 230px;
+  width: 362px;
+}
+
+.chatting-list-4 .ellipse-18-C61RwL {
+  background-color: transparent;
+  height: 47px;
+  left: 8px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 241px;
+  width: 47px;
+}
+
+.chatting-list-4 .ellipse-17-C61RwL {
+  background-color: transparent;
+  height: 47px;
+  left: 8px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 174px;
+  width: 47px;
+}
+
+.chatting-list-4 .daniel-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 109px;
+  width: 51px;
+}
+
+.chatting-list-4 .mimi-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 241px;
+  width: 51px;
+}
+
+.chatting-list-4 .bob-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 174px;
+  width: 51px;
+}
+
+.chatting-list-4 .hi-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 134px;
+  width: 80px;
+}
+
+.chatting-list-4 .lets-meet-at-7pm-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 200px;
+  width: 121px;
+}
+
+.chatting-list-4 .im-fine-thanks-and-you-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 268px;
+  width: 212px;
+}
+
+.chatting-list-4 .ellipse-19-C61RwL {
+  background-color: var(--red);
+  border-radius: 12.5px;
+  height: 25px;
+  left: 314px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 120px;
+  width: 25px;
+}
+
+.chatting-list-4 .x1-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 324px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 123px;
+  width: 6px;
+}
+
+.chatting-list-4 .arrow_back_black_24dp-2-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 21px;
+  width: 46px;
+}
